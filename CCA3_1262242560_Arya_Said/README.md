@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Name** | Arya Said |
-| **Roll number** | 1262242560 |
+| **PRN** | 1262242560 |
 | **Project** | Flowspace: a redesign of ClickUp's first-run experience (sign-up, onboarding and first workspace) |
 | **Figma prototype** | https://www.figma.com/proto/NGVBa9i4SpuI5o8qh3aflH/Untitled?page-id=73%3A12147&node-id=73-12148&starting-point-node-id=73%3A12148&scaling=min-zoom&content-scaling=fixed |
 | **Original website** | https://clickup.com |
