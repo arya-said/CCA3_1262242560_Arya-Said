@@ -26,6 +26,18 @@ Each participant did a different task. The tasks were not the same across partic
 | P4 Debansi | Invite a friend to the project | [P4_session.mp3](audio_files/P4_session.mp3) | [P4.txt](transcripts/P4.txt) |
 | P5 Nisarg | Add a task with a deadline | [P5_session.mp3](audio_files/P5_session.mp3) | [P5.txt](transcripts/P5.txt) |
 
+## Figma files
+
+All lo-fi and hi-fi wireframes, the prototype, the design justification and the Assignment 7 accessible redesign are in one Figma file.
+
+| Stage | Link |
+|---|---|
+| Figma file (editor): low-fi, hi-fi, prototype, justification and Assignment 7 | https://www.figma.com/design/NGVBa9i4SpuI5o8qh3aflH/Untitled?node-id=26-488 |
+| Hi-fi prototype | https://www.figma.com/proto/NGVBa9i4SpuI5o8qh3aflH/Untitled?node-id=26-489 |
+| Assignment 7 accessible redesign (prototype) | https://www.figma.com/proto/NGVBa9i4SpuI5o8qh3aflH/Untitled?page-id=83%3A15892&node-id=83-17003&starting-point-node-id=83%3A17003&scaling=min-zoom&content-scaling=fixed |
+
+PDF copies are also in the repo: [low-fi wireframes](survey_data/experiment3_1262242560_Arya_Said_Lofi_Wireframes.pdf), [hi-fi wireframes](survey_data/experiment4_1262242560_Arya_Said_Hifi_Wireframes.pdf) and [design justification](survey_data/experiment4_1262242560_Arya_Said_Justification.pdf).
+
 ## Results
 
 Qualitative findings from the think-aloud transcripts:
@@ -69,6 +81,6 @@ A stronger test would have all participants do the same tasks on both platforms,
 |---|---|
 | audio_files/ | Full think-aloud recordings, P1–P5 (MP3) |
 | transcripts/ | Written transcripts of the sessions, P1–P5 |
-| survey_data/ | Earlier exercises for this website: experiment 1 (website comparison), experiment 2 (empathy map), experiment 3 (lo-fi wireframes), experiment 4 (hi-fi wireframes and design justification D1–D8) |
+| survey_data/ | Earlier exercises for this website: experiment 1 (website comparison), experiment 2 (empathy map), experiment 3 (lo-fi wireframes PDF), experiment 4 (hi-fi wireframes PDF and design justification D1–D8) |
 | end_sem_experiments/ | Experiment 5 (heuristic evaluation), experiment 6 (Maze usability test and report), experiment 7 (accessible redesign) |
 | CCA3_Conclusion_Report.docx | Final conclusion report (1–2 pages) |
